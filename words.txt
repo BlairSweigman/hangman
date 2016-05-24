@@ -1,0 +1,10 @@
+apple
+potato
+summary
+hangman
+pizza
+radio
+monitor
+kettle
+paper
+blackboard
